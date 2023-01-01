@@ -1,2 +1,2 @@
 # my-first-web-page
-biography of linus torvalds
+biography of Linus Torvalds
